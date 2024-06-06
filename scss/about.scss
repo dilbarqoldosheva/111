@@ -1,0 +1,26 @@
+.section-about{
+    padding: 100px 0;
+    .section-about__div{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .section-about__div-left{
+            .spann{
+                font-size: 64px;
+                color: #fff;
+            }
+            .span{
+                font-size: 64px;
+                color: #00ADB5;
+            }
+            p{
+               
+                color:  #EEEEEEBF;
+                line-height: 25px;
+            }
+            b{
+                color: #fff;
+            }
+        }
+    }
+}
