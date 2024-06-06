@@ -9,3 +9,44 @@
     margin-top: 50px;
     margin-bottom: 20px;
 }
+.section-works{
+    background-color:  #222831;
+    padding: 50px 0;
+}
+.section-works__div-button{
+    width: 50px;
+    height: 30px;
+    background-color: #00ADB5;
+    border-radius: 25px;
+    border: none;
+    color: white;
+}
+.section-works__div-button-second{
+    width: 50px;
+    height: 30px;
+    background-color: #2f4566;
+    color: white;
+    border-radius: 25px;
+    border: none;
+}
+.section-works__div-button-third{
+    width: 50px;
+    height: 30px;
+    background-color: #2f4566;
+    color: white;
+    border-radius: 25px;
+    border: none;
+}
+.section-works__div-button-fourth{
+    width: 100px;
+    height: 30px;
+    background-color: #2f4566;
+    color: white;
+    border-radius: 25px;
+    border: none;
+}
+.section-works__div-image {
+    display: flex;
+    gap: 40px;
+}
+
