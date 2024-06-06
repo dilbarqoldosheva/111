@@ -1,1 +1,13 @@
-/*# sourceMappingURL=works.css.map */
+.section-works__div {
+  width: 90%;
+  height: -moz-max-content;
+  height: max-content;
+  margin: 0 auto;
+}
+
+.section-works__div-top {
+  color: white;
+  font-family: sans-serif;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}/*# sourceMappingURL=works.css.map */

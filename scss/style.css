@@ -1,1 +1,18 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.continer {
+  width: 90%;
+  height: -moz-max-content;
+  height: max-content;
+  margin: 0 auto;
+}
+
+.continer {
+  width: 90%;
+  height: -moz-max-content;
+  height: max-content;
+  margin: 0 auto;
+}/*# sourceMappingURL=style.css.map */
