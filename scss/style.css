@@ -1,5 +1,5 @@
 .section-home {
-  padding: 50px 0;
+  padding: 100px 0;
 }
 .section-home .section-home__div {
   display: flex;
@@ -61,4 +61,28 @@ body {
   text-decoration: none;
   color: #fff;
   font-size: 18px;
+}
+
+.section-about {
+  padding: 100px 0;
+}
+.section-about .section-about__div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.section-about .section-about__div .section-about__div-left .spann {
+  font-size: 64px;
+  color: #fff;
+}
+.section-about .section-about__div .section-about__div-left .span {
+  font-size: 64px;
+  color: #00ADB5;
+}
+.section-about .section-about__div .section-about__div-left p {
+  color: rgba(238, 238, 238, 0.7490196078);
+  line-height: 25px;
+}
+.section-about .section-about__div .section-about__div-left b {
+  color: #fff;
 }/*# sourceMappingURL=style.css.map */
